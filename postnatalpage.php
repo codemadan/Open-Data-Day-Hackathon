@@ -120,8 +120,8 @@ include('includes/top.inc.php');
 
 <div id="templatemo_footer_wrapper">
     <div id="templatemo_footer">
-        Copyright © 2017 <a href="#">Hold The Code</a> | 
-        Designed and Developed by <a href="http://www.goforcode.com" rel="nofollow" target="_parent">BloodBank team</a>
+        Copyright © 2017 <a href="#">We Care</a> | 
+        Designed and Developed by <a href="http://www.goforcode.com" rel="nofollow" target="_parent">Hold The Code Team</a>
         <div class="cleaner"></div>
     </div>
 </div> 

@@ -85,11 +85,7 @@ include('includes/top.inc.php');
         </div> <!-- end of templatemo_menu -->
     </div> <!-- end of header -->
     
-    <div id="templatemo_middle">
-      
-		<img src="images/care.jpg" height="260px" width="960px">
-		
-    </div> <!-- end of templatemo_middle -->
+    
     </div> <!-- end of header -->
 	
 	
